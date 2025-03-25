@@ -79,7 +79,7 @@ After cleaning, the dataset is visualized using **Tableau** to generate insights
 ## 🚀 Getting Started  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/AgnideepPoddar/Netflix-Data-Analysis.git
+   git clone https://github.com/AgnideepPoddar/Netflix-Data-Cleaning-Analysis-and-Visualization.git
    ```  
 2. Run the analysis scripts to explore insights.  
 
